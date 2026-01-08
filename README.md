@@ -1,10 +1,10 @@
-# RUHAcam 
+# RUHHA Camera
 
-A 3D Printable Retro-style Raspberry Pi HQ Camera
+Eine Kamera aus dem 3d druckee...
 
 ![](images/ruhacam-cover.jpg)
 
-## Bill of Materials 
+## Was du brauchst (Links weiter unten)
 
 - Raspberry Pi Zero WH + microSD card 
 - Raspberry Pi HQ Camera 
