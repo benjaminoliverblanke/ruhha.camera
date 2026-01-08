@@ -1,6 +1,6 @@
 # RUHHA Camera
 
-Eine Kamera aus dem 3d druckee...
+Eine Kamera aus dem 3d drucker...
 
 ![](images/ruhacam-cover.jpg)
 
