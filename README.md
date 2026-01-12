@@ -88,8 +88,4 @@ STL‑Dateien im Ordner `STL/`:
 ---
 
 ## 💾 Software
-
-### 1. System vorbereiten
-
-```bash
-sudo apt update && sudo apt upgrade -y
+Als letztes müsst ihr die Software richtig einstellen. Hier findet ihr die Code Libarie.
